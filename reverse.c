@@ -1,4 +1,4 @@
-#include <stdio.h>
+ #include <stdio.h>
 
 void string_reverse1(char *string)
 {
@@ -15,6 +15,8 @@ void string_reverse1(char *string)
 int main() {
    /* File copying */
    int c;
+
+   //Test adding here to the original code
 
    c = getchar();
    while(c != EOF){
