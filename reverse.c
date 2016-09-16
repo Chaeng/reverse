@@ -1,4 +1,4 @@
- #include <stdio.h>
+#include <stdio.h>
 
 void string_reverse1(char *string)
 {
