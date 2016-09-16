@@ -16,10 +16,6 @@ int main() {
    /* File copying */
    int c;
 
-   //Test adding here to the original code
-   //*************************************
-   //*************************************
-
    c = getchar();
    while(c != EOF){
    	//putchar(c);
