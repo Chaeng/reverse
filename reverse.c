@@ -12,6 +12,8 @@ void string_reverse1(char *string)
 //     return *str_reverse;
 // }
 
+
+//Adding argument input here
 int main() {
    /* File copying */
    int c;
